@@ -1,7 +1,6 @@
 {
   "name": "opencubes/result",
   "description": "OpenCubes",
-  "minimum-stability": "dev",
   "license": "MIT",
   "authors": [
     {

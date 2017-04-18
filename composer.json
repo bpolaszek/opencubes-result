@@ -10,6 +10,7 @@
   ],
   "require": {
     "php": ">=7.1",
+    "opencubes/common": "dev-master",
     "bentools/iterable-functions": "^1.0",
     "guzzlehttp/promises": "^1.3"
   },
